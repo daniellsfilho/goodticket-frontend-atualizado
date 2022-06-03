@@ -1,0 +1,1 @@
+# goodticket-frontend-atualizado
