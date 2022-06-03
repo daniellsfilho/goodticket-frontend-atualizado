@@ -1,1 +1,3 @@
-# goodticket-frontend-atualizado
+# goodticket
+
+https://goodticket.vercel.app/
